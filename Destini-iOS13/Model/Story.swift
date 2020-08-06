@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+struct Story{
+    var title = ""
+    var choice1 = ""
+     var choice1Destination = 0
+    var choice2 = ""
+   
+    var choice2Destination = 0
+    
+}
